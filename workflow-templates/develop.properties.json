@@ -1,5 +1,13 @@
 {
-    "name": "Develop Workflow Template",
-    "description": "Runs basic Develop Workflow actions",
-    "iconName": "example-icon"
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
 }
