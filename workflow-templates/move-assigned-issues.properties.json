@@ -1,0 +1,8 @@
+{
+    "name": "Move assigned issue to backlog",
+    "description": "Moves the assigned isses to the To do list on the backlog board",
+    "iconName": "example-icon",
+    "categories": [
+        "automation"
+    ]
+}
